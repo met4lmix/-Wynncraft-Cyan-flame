@@ -1,5 +1,5 @@
 # Wynncraft Cyan flame
-![Before and after](missing)
+[![Download](https://github.com/met4lmix/-Wynncraft-Cyan-flame/blob/main/Modrinth.png)](https://modrinth.com/resourcepack/wynncraft-cyan-flame/versions)
 
 > **Summary**
 - Recolor **regular fire** with **cyan (or soul) fire**.
