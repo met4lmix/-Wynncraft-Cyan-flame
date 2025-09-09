@@ -18,4 +18,4 @@
 
 > **Licence**
 
-(Missing)
+- https://github.com/met4lmix/-Wynncraft-Cyan-flame/blob/main/LICENCE.md
